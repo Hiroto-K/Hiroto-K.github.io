@@ -34,7 +34,7 @@
     "eslint-plugin-standard": "4.1.0",
     "http-server": "0.12.3",
     "npm-run-all": "4.1.5",
-    "postcss": "8.2.15",
+    "postcss": "8.3.5",
     "postcss-cli": "8.3.1",
     "tailwindcss": "2.1.4",
     "xml-js": "1.6.11"
